@@ -1,0 +1,90 @@
+[
+    {
+        "id_curso": 1,
+        "nombre": "Pintura contemporanea",
+        "id_profesor": 3,
+        "nivel": "Intermedio",
+        "turno": "Ma\u00f1ana",
+        "dia": "Jueves",
+        "horario": "11:30",
+        "costo": 60000,
+        "estado": "Activo"
+    },
+    {
+        "id_curso": 2,
+        "nombre": "Sombreros y Accesorios",
+        "id_profesor": 1,
+        "nivel": "Basico",
+        "turno": "Noche",
+        "dia": "Miercoles",
+        "horario": "21:30",
+        "costo": 30000,
+        "estado": "Activo"
+    },
+    {
+        "id_curso": 3,
+        "nombre": "Perfomance Artistica en Escena",
+        "id_profesor": 2,
+        "nivel": "Avanzado",
+        "turno": "Noche",
+        "dia": "Lunes",
+        "horario": "22:00",
+        "costo": 90000,
+        "estado": "Activo"
+    },
+    {
+        "id_curso": 4,
+        "nombre": "Vestuario",
+        "id_profesor": 5,
+        "nivel": "Basico",
+        "turno": "Ma\u00f1ana",
+        "dia": "Viernes",
+        "horario": "11:30",
+        "costo": 90000,
+        "estado": "Activo"
+    },
+    {
+        "id_curso": 5,
+        "nombre": "Vestuario",
+        "id_profesor": 6,
+        "nivel": "Avanzado",
+        "turno": "Ma\u00f1ana",
+        "dia": "Viernes",
+        "horario": "10:30",
+        "costo": 90000,
+        "estado": "Activo"
+    },
+    {
+        "id_curso": 6,
+        "nombre": "Obra escultorica",
+        "id_profesor": 4,
+        "nivel": "Intermedio",
+        "turno": "Noche",
+        "dia": "Lunes",
+        "horario": "20:00",
+        "costo": 60000,
+        "estado": "Finalizado"
+    },
+    {
+        "id_curso": 7,
+        "nombre": "Pintura contemporanea",
+        "id_profesor": 8,
+        "nivel": "Basico",
+        "turno": "Ma\u00f1ana",
+        "dia": "Miercoles",
+        "horario": "8:30",
+        "costo": 30000,
+        "estado": "Activo"
+    },
+    {
+        "id_curso": 8,
+        "nombre": "Pintura abstracta",
+        "id_profesor": 7,
+        "nivel": "Avanzado",
+        "turno": "Tarde",
+        "dia": "Martes",
+        "horario": "14:30",
+        "costo": 90000,
+        "estado": "Activo"
+    }
+]

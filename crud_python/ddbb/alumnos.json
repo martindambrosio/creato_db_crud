@@ -1,0 +1,83 @@
+[
+    {
+        "id_alumno": 1,
+        "nombre": "Santiago",
+        "apellido": "P\u00e9rez",
+        "documento": "12345678",
+        "direccion": "Castros 767",
+        "telefono": "51237567",
+        "mail": "santi@yahoo.com"
+    },
+    {
+        "id_alumno": 2,
+        "nombre": "Mar\u00eda",
+        "apellido": "G\u00f3mez",
+        "documento": "87654321",
+        "direccion": "Av Silvestre 542",
+        "telefono": "49876543",
+        "mail": "maria.gomez@hotmail.com"
+    },
+    {
+        "id_alumno": 3,
+        "nombre": "Carlos",
+        "apellido": "Villar",
+        "documento": "32978659",
+        "direccion": "Morales 1917",
+        "telefono": "1134546543",
+        "mail": "carlos@gmail.com"
+    },
+    {
+        "id_alumno": 4,
+        "nombre": "Julieta",
+        "apellido": "Gutierrez",
+        "documento": "35265231",
+        "direccion": "Moreno 9821",
+        "telefono": "1133226655",
+        "mail": "julig@gmail.com"
+    },
+    {
+        "id_alumno": 5,
+        "nombre": "Belen",
+        "apellido": "Gomez",
+        "documento": "22132132",
+        "direccion": "Rodriguez 432",
+        "telefono": "113023023",
+        "mail": "belu@hotmail.com"
+    },
+    {
+        "id_alumno": 6,
+        "nombre": "Mayra",
+        "apellido": "Lopez",
+        "documento": "36241052",
+        "direccion": "Av Rivadavia 165",
+        "telefono": "26354125",
+        "mail": "maylo@gmail.com"
+    },
+    {
+        "id_alumno": 7,
+        "nombre": "Alejandro",
+        "apellido": "Barros",
+        "documento": "29876592",
+        "direccion": "Torres 1910",
+        "telefono": "45654329",
+        "mail": "alebarros@gmail.com"
+    },
+    {
+        "id_alumno": 8,
+        "nombre": "Mart\u00edn",
+        "apellido": "Perez",
+        "documento": "41987954",
+        "direccion": "Manzanares 3490",
+        "telefono": "43234563",
+        "mail": "martinpe@gmail.com"
+    },
+    {
+        "id_alumno": 9,
+        "nombre": "Carla",
+        "apellido": "Mendez",
+        "documento": "37865784",
+        "direccion": "San Martin 178",
+        "telefono": "32765843",
+        "mail": "mendezcarla@gmail.com"
+    }
+]
