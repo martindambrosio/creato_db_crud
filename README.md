@@ -3,7 +3,7 @@
 This repository contains a project for managing the database of "Creato", an art school, and its associated CRUD (Create, Read, Update, Delete) application built with Python and Tkinter. The project allows easy management of data related to employees, students, courses, grades, and more. It is structured in a way that makes it easy to manage, query, and edit information from the database.
 
 # Project Structure
-
+```
 /creato-school-database
 │
 ├── README.md                # This file
@@ -18,7 +18,7 @@ This repository contains a project for managing the database of "Creato", an art
 │   ├── /vistas                  # Folder containing the views for the CRUD application.
 │   ├── principal.py             # Main Python script that runs the CRUD application.
 │   ├── README.md                # Crud readme.
-
+```
 
 # Features:
 
