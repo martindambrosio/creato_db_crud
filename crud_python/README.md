@@ -27,7 +27,7 @@ Once you run principal.py, the GUI will appear, and you can interact with the ap
     View and filter existing data.
 
 Folder Structure
-
+```
 /CRUD
 │
 ├── /controlador             # Folder containing the logic for database operations and CRUD functionalities.
@@ -37,3 +37,4 @@ Folder Structure
 ├── /vistas                  # Folder containing the views for the CRUD application.
 ├── principal.py             # Main Python script that runs the CRUD application.
 └── README.md                # This file
+```
